@@ -61,7 +61,7 @@
     "lazyLoad": false,
     "lazyType": "nothing",
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
