@@ -1023,212 +1023,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rzMjmwwyHq {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  z-index: 1;
-  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
-}
-.cid-rzMjmwwyHq .underline .line {
-  width: 2rem;
-  height: 1px;
-  background: #ffffff;
-  display: inline-block;
-}
-.cid-rzMjmwwyHq .mbr-text {
-  margin: 0;
-}
-.cid-rzMjmwwyHq .check-in-input,
-.cid-rzMjmwwyHq .check-out-input,
-.cid-rzMjmwwyHq .guests .date-col span {
-  cursor: pointer;
-}
-.cid-rzMjmwwyHq .content-wrap {
-  display: -webkit-flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  -webkit-flex-wrap: wrap;
-}
-.cid-rzMjmwwyHq .content-wrap .first-item,
-.cid-rzMjmwwyHq .content-wrap .second-item {
-  padding: 1.5rem;
-}
-.cid-rzMjmwwyHq .content-wrap .first-item {
-  background: #c19b76;
-}
-.cid-rzMjmwwyHq .content-wrap .first-item .item-text {
-  text-align: center;
-}
-.cid-rzMjmwwyHq .content-wrap .first-item .item-btn .btn {
-  margin-left: 4px !important;
-}
-.cid-rzMjmwwyHq .content-wrap .second-item {
-  background: #709faf;
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-}
-.cid-rzMjmwwyHq .content-wrap .second-item .check-text {
-  display: flex;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
-  padding: 1rem 0;
-}
-.cid-rzMjmwwyHq .content-wrap .second-item .check-out {
-  border-top: 2px solid #ffffff;
-}
-.cid-rzMjmwwyHq .input-wrap {
-  background: #fcfcfc;
-}
-.cid-rzMjmwwyHq .booking-datepicker {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap {
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-  overflow: hidden;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input {
-  border: none;
-  border-radius: 0;
-  position: absolute;
-  background: transparent;
-  z-index: 2;
-  left: -90px;
-  top: 25%;
-  height: 50%;
-  width: calc(100% + 90px);
-  color: transparent;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input.guests-input {
-  z-index: 0;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input::-webkit-input-placeholder {
-  color: transparent;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input::-moz-placeholder {
-  color: transparent;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input:-moz-placeholder {
-  color: transparent;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input:-ms-input-placeholder {
-  color: transparent;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap input:focus {
-  box-shadow: none;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .label {
-  z-index: 1;
-  color: #709faf;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .date-row {
-  display: inline-flex;
-  color: #709faf;
-  z-index: 1;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .date-row .day,
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .date-row .guests-count {
-  margin-bottom: 0;
-  margin-right: 1rem;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .date-row .date-col {
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-align-items: center;
-  align-items: center;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .input-wrap .date-row .date-col span:first-child {
-  margin-bottom: 1rem;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .mbr-section-btn {
-  display: flex;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .mbr-section-btn .input-group-btn {
-  display: flex;
-  width: 100%;
-}
-.cid-rzMjmwwyHq .booking-datepicker .mbr-form .mbr-section-btn .input-group-btn .btn {
-  width: 100%;
-  margin: 0;
-  line-height: 18px;
-  font-weight: 300;
-}
-.cid-rzMjmwwyHq .email input {
-  width: 100%;
-  border: none;
-  outline: none;
-  padding: 10px 15px;
-}
-.cid-rzMjmwwyHq .email input::-webkit-input-placeholder {
-  font-weight: 200;
-}
-.cid-rzMjmwwyHq .datepicker {
-  background-color: #fcfcfc;
-  color: #709faf;
-}
-.cid-rzMjmwwyHq .datepicker .active.day {
-  background-color: #ff9a8a !important;
-  color: #ffffff !important;
-}
-.cid-rzMjmwwyHq .datepicker:after {
-  border-top-color: #fcfcfc;
-  border-bottom-color: #fcfcfc;
-}
-@media (max-width: 767px) {
-  .cid-rzMjmwwyHq .mbr-section-btn {
-    justify-content: center;
-    padding: 0.5rem 0 0 0;
-    margin: 0;
-    order: 1;
-  }
-  .cid-rzMjmwwyHq .mbr-section-btn .input-group-btn {
-    width: 100%;
-  }
-  .cid-rzMjmwwyHq .mbr-section-btn .input-group-btn .btn {
-    width: 100%;
-    padding: 1rem;
-  }
-  .cid-rzMjmwwyHq .input-wrap {
-    margin-bottom: 0.5rem;
-  }
-  .cid-rzMjmwwyHq .email input {
-    border-radius: 0;
-  }
-}
-@media (min-width: 768px) {
-  .cid-rzMjmwwyHq .booking-datepicker input:not(.guests-input):not([name="email"]) {
-    border-right: 1px solid #709faf !important;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rzMjmwwyHq .booking-datepicker {
-    padding-top: 2rem;
-  }
-}
-@media (max-width: 575px) {
-  .cid-rzMjmwwyHq .datepicker {
-    left: 10% !important;
-  }
-}
 .cid-s5RHT7N4ZR {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2493,15 +2287,15 @@ section.lazy-placeholder:after {
   box-shadow: none;
   background: transparent !important;
 }
-.cid-s68QQQZgtg {
+.cid-s6x7jpC0rj {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #232323;
 }
-.cid-s68QQQZgtg a:link {
+.cid-s6x7jpC0rj a:link {
   text-decoration: none;
 }
-.cid-s68QQQZgtg .icon-transition span {
+.cid-s6x7jpC0rj .icon-transition span {
   color: #ffffff;
   display: block;
   height: 3em;
@@ -2513,30 +2307,30 @@ section.lazy-placeholder:after {
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
-.cid-s68QQQZgtg .icon-transition span:hover {
+.cid-s6x7jpC0rj .icon-transition span:hover {
   background-color: #ffbc00;
 }
-.cid-s68QQQZgtg .inner-text {
+.cid-s6x7jpC0rj .inner-text {
   line-height: 3em;
 }
-.cid-s68QQQZgtg .social-media {
+.cid-s6x7jpC0rj .social-media {
   display: flex;
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-s68QQQZgtg .social-media ul {
+.cid-s6x7jpC0rj .social-media ul {
   margin: 0;
   padding: 0;
   margin-bottom: 8px;
 }
-.cid-s68QQQZgtg .social-media ul li {
+.cid-s6x7jpC0rj .social-media ul li {
   padding: 4px;
   display: inline-block;
 }
-.cid-s68QQQZgtg .content-text,
-.cid-s68QQQZgtg .inner-text {
+.cid-s6x7jpC0rj .content-text,
+.cid-s6x7jpC0rj .inner-text {
   color: #c1c1c1;
 }
 .cid-s5y9DzegHd {
@@ -3722,15 +3516,15 @@ section.lazy-placeholder:after {
 .cid-s5yCreu3J2 .mbr-section-btn {
   text-align: left;
 }
-.cid-s68QNWJ2nY {
+.cid-s6x7cQXUjr {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #232323;
 }
-.cid-s68QNWJ2nY a:link {
+.cid-s6x7cQXUjr a:link {
   text-decoration: none;
 }
-.cid-s68QNWJ2nY .icon-transition span {
+.cid-s6x7cQXUjr .icon-transition span {
   color: #ffffff;
   display: block;
   height: 3em;
@@ -3742,30 +3536,30 @@ section.lazy-placeholder:after {
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
-.cid-s68QNWJ2nY .icon-transition span:hover {
+.cid-s6x7cQXUjr .icon-transition span:hover {
   background-color: #ffbc00;
 }
-.cid-s68QNWJ2nY .inner-text {
+.cid-s6x7cQXUjr .inner-text {
   line-height: 3em;
 }
-.cid-s68QNWJ2nY .social-media {
+.cid-s6x7cQXUjr .social-media {
   display: flex;
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-s68QNWJ2nY .social-media ul {
+.cid-s6x7cQXUjr .social-media ul {
   margin: 0;
   padding: 0;
   margin-bottom: 8px;
 }
-.cid-s68QNWJ2nY .social-media ul li {
+.cid-s6x7cQXUjr .social-media ul li {
   padding: 4px;
   display: inline-block;
 }
-.cid-s68QNWJ2nY .content-text,
-.cid-s68QNWJ2nY .inner-text {
+.cid-s6x7cQXUjr .content-text,
+.cid-s6x7cQXUjr .inner-text {
   color: #c1c1c1;
 }
 .cid-rzMj9prxNq .nav-item:focus,
@@ -4351,15 +4145,15 @@ section.lazy-placeholder:after {
     padding-top: 0;
   }
 }
-.cid-s68QJftR4m {
+.cid-s6x76WEqhZ {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #232323;
 }
-.cid-s68QJftR4m a:link {
+.cid-s6x76WEqhZ a:link {
   text-decoration: none;
 }
-.cid-s68QJftR4m .icon-transition span {
+.cid-s6x76WEqhZ .icon-transition span {
   color: #ffffff;
   display: block;
   height: 3em;
@@ -4371,29 +4165,29 @@ section.lazy-placeholder:after {
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
-.cid-s68QJftR4m .icon-transition span:hover {
+.cid-s6x76WEqhZ .icon-transition span:hover {
   background-color: #ffbc00;
 }
-.cid-s68QJftR4m .inner-text {
+.cid-s6x76WEqhZ .inner-text {
   line-height: 3em;
 }
-.cid-s68QJftR4m .social-media {
+.cid-s6x76WEqhZ .social-media {
   display: flex;
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-s68QJftR4m .social-media ul {
+.cid-s6x76WEqhZ .social-media ul {
   margin: 0;
   padding: 0;
   margin-bottom: 8px;
 }
-.cid-s68QJftR4m .social-media ul li {
+.cid-s6x76WEqhZ .social-media ul li {
   padding: 4px;
   display: inline-block;
 }
-.cid-s68QJftR4m .content-text,
-.cid-s68QJftR4m .inner-text {
+.cid-s6x76WEqhZ .content-text,
+.cid-s6x76WEqhZ .inner-text {
   color: #c1c1c1;
 }
